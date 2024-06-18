@@ -1,0 +1,1 @@
+{ "name": "0xtelli", "website": "https://twitter.com/heisenberg_478", "description": "Operator", "logo": "https://raw.githubusercontent.com/heisenberg2325/eige/main/telli.png", "twitter": "https://twitter.com/heisenberg_478" }
